@@ -1,9 +1,4 @@
-import React from 'react'
-
 const Header = () => {
-  return (
-    <div>Header</div>
-  )
-}
-
-export default Header
+  return <div>Hellor World</div>;
+};
+export default Header;
