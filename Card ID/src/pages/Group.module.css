@@ -1,0 +1,351 @@
+.pexelsNicoleAvagliano270665 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: radial-gradient(50% 50%at 50% 50%, #422d9a, #0d0822);
+  width: 1126px;
+  height: 913px;
+}
+.groupChild,
+.groupItem {
+  position: absolute;
+  border-radius: var(--br-xl);
+}
+.groupChild {
+  top: 196px;
+  left: 135px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-gainsboro);
+  width: 840px;
+  height: 580px;
+}
+.groupItem {
+  top: 315px;
+  left: 190px;
+  width: 240px;
+  height: 291px;
+  object-fit: cover;
+}
+.fotoDelUsuario {
+  position: absolute;
+  top: 422px;
+  left: 209px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 203px;
+  height: 57px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  border: 3px dashed var(--color-black);
+  box-sizing: border-box;
+  width: 1126px;
+  height: 911px;
+}
+.rectangleHeader,
+.rectangleMain {
+  position: absolute;
+  left: 135px;
+  background-color: var(--color-gray);
+  width: 840px;
+}
+.rectangleHeader {
+  top: 196px;
+  border-radius: var(--br-xl) var(--br-xl) 0 0;
+  border-bottom: 1px solid #8fc13d;
+  box-sizing: border-box;
+  height: 85px;
+}
+.rectangleMain {
+  top: 281px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 0 0 var(--br-xl) var(--br-xl);
+  height: 495px;
+}
+.nombre {
+  position: absolute;
+  top: 315px;
+  left: 479px;
+  font-weight: 300;
+  display: inline-block;
+  width: 181px;
+  height: 44px;
+}
+.fechaDeIngreso {
+  top: 633px;
+  left: 186px;
+  font-weight: 300;
+  width: 244px;
+}
+.deAbrilDel,
+.fechaDeIngreso,
+.jorgeMartnezLozano,
+.unitedFederationOf {
+  position: absolute;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.deAbrilDel {
+  top: 664px;
+  left: 186px;
+  font-weight: 300;
+  width: 244px;
+  height: 44px;
+}
+.jorgeMartnezLozano,
+.unitedFederationOf {
+  font-size: var(--font-size-11xl);
+}
+.unitedFederationOf {
+  top: 214px;
+  left: 264px;
+  font-weight: 600;
+  font-family: var(--font-lexend);
+  width: 711px;
+  height: 44px;
+}
+.jorgeMartnezLozano {
+  top: 374px;
+  left: 501px;
+  width: 403px;
+}
+.rectangleSection {
+  position: absolute;
+  top: 359px;
+  left: 479px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gainsboro);
+  border: 3px solid var(--color-mediumslateblue);
+  box-sizing: border-box;
+  width: 448px;
+  height: 70px;
+}
+.descripcin,
+.holaSoyJorge {
+  position: absolute;
+  display: inline-block;
+}
+.descripcin {
+  top: 571px;
+  left: 479px;
+  font-weight: 300;
+  width: 181px;
+  height: 44px;
+}
+.holaSoyJorge {
+  top: 629px;
+  left: 501px;
+  text-align: justify;
+  width: 403px;
+  height: 57px;
+}
+.groupChild1,
+.rol {
+  position: absolute;
+  left: 479px;
+}
+.groupChild1 {
+  top: 615px;
+  border-radius: var(--br-xl) var(--br-xl) 0 0;
+  background-color: var(--color-gainsboro);
+  border-top: 3px solid var(--color-mediumslateblue);
+  border-right: 3px solid var(--color-mediumslateblue);
+  border-left: 3px solid var(--color-mediumslateblue);
+  box-sizing: border-box;
+  width: 448px;
+  height: 161px;
+}
+.rol {
+  top: 443px;
+  font-weight: 300;
+  display: inline-block;
+  width: 181px;
+  height: 44px;
+}
+.gerenteDeExperiencias {
+  position: absolute;
+  top: 493px;
+  left: 501px;
+  font-size: var(--font-size-11xl);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 403px;
+  height: 57px;
+}
+.groupChild2 {
+  position: absolute;
+  top: 487px;
+  left: 479px;
+  border-radius: 90px;
+  background-color: var(--color-gainsboro);
+  border: 3px solid var(--color-mediumslateblue);
+  box-sizing: border-box;
+  width: 448px;
+  height: 70px;
+}
+.image1Icon {
+  position: absolute;
+  top: 204px;
+  left: 175px;
+  border-radius: 46px;
+  width: 64px;
+  height: 64px;
+  object-fit: cover;
+}
+.pexelsThisisengineering39125Icon {
+  position: absolute;
+  top: 314px;
+  left: 190px;
+  border-radius: var(--br-xl);
+  width: 240px;
+  height: 292px;
+  object-fit: cover;
+}
+.pexelsNicoleAvagliano270665Icon {
+  position: absolute;
+  top: 904px;
+  left: 0;
+  width: 1126px;
+  height: 914px;
+}
+.groupChild3,
+.image7Icon {
+  position: absolute;
+  border-radius: var(--br-xl);
+}
+.groupChild3 {
+  top: 1077px;
+  left: 135px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-gray);
+  width: 840px;
+  height: 577px;
+}
+.image7Icon {
+  top: 1158px;
+  left: 201px;
+  width: 291px;
+  height: 290px;
+  object-fit: cover;
+}
+.copiarLink,
+.rectangleButton {
+  cursor: pointer;
+  padding: 0;
+  position: absolute;
+}
+.rectangleButton {
+  border: 3px solid var(--color-mediumslateblue);
+  background-color: var(--color-gainsboro);
+  top: 1499px;
+  left: 201px;
+  border-radius: var(--br-31xl);
+  box-sizing: border-box;
+  width: 289px;
+  height: 78px;
+}
+.copiarLink {
+  border: 0;
+  background-color: transparent;
+  top: 1519px;
+  left: 144px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-lexend-deca);
+  color: var(--color-mediumslateblue);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 403px;
+}
+.copiarLink:hover {
+  color: #2e0673;
+}
+.carrera,
+.ingenieraMecnica {
+  position: absolute;
+  left: 564px;
+}
+.carrera {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 1158px;
+  font-size: var(--font-size-6xl);
+  font-weight: 300;
+  font-family: var(--font-lexend-deca);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 164px;
+  height: 44px;
+}
+.ingenieraMecnica {
+  top: 1202px;
+  font-size: var(--font-size-11xl);
+  display: flex;
+  align-items: center;
+  width: 365px;
+}
+.proyecto {
+  top: 1265px;
+  font-weight: 300;
+  width: 164px;
+  height: 44px;
+}
+.ecolife,
+.habilidades,
+.proyecto {
+  position: absolute;
+  left: 564px;
+  display: inline-block;
+}
+.ecolife {
+  top: 1309px;
+  font-size: var(--font-size-11xl);
+  width: 365px;
+}
+.habilidades {
+  top: 1366px;
+  font-weight: 300;
+  width: 164px;
+  height: 44px;
+}
+.diseoCad {
+  margin-bottom: 0;
+}
+.diseoCadPythonImpresin3d {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 40px;
+}
+.diseoCadPythonContainer {
+  position: absolute;
+  top: 1410px;
+  left: 564px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 365px;
+}
+.pexelsNicoleAvagliano270665Parent {
+  width: 100%;
+  position: relative;
+  height: 1818px;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-lexend-deca);
+}
