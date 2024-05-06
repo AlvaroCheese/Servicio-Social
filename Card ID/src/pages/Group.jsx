@@ -4,12 +4,11 @@ const Group = () => {
   return (
     <div className={styles.pexelsNicoleAvagliano270665Parent}>
       <div className={styles.pexelsNicoleAvagliano270665} />
-      <div className={styles.groupChild} />
-      <img className={styles.groupItem} alt="" src="/rectangle-11@2x.png" />
-      <div className={styles.groupChild} />
+      <div className={styles.rectangulo} />
+      <img className={styles.grupoItem} alt="" src="/rectangle-11@2x.png" />
+      <div className={styles.rectangulo} />
       <div className={styles.fotoDelUsuario}>[Foto del Usuario]</div>
-      <div className={styles.rectangleDiv} />
-      <header className={styles.rectangleHeader} />
+      <header className={styles.rectanguloHeader} />
       <main className={styles.rectangleMain} />
       <div className={styles.nombre}>Nombre</div>
       <div className={styles.fechaDeIngreso}>Fecha de Ingreso</div>
@@ -18,18 +17,18 @@ const Group = () => {
         United Federation of Science International
       </div>
       <div className={styles.jorgeMartnezLozano}>Jorge Martínez Lozano</div>
-      <section className={styles.rectangleSection} />
-      <div className={styles.descripcin}>Descripción</div>
+      <section className={styles.rectanguloSection} />
+      <div className={styles.descripcion}>Descripción</div>
       <div className={styles.holaSoyJorge}>
         Hola soy Jorge, estudié Ingeniería Bioquimica en la universidad de
         palermo y estudié una maestría en España
       </div>
-      <section className={styles.groupChild1} />
+      <section className={styles.rectangulo1} />
       <div className={styles.rol}>Rol</div>
       <div className={styles.gerenteDeExperiencias}>
         Gerente de experiencias
       </div>
-      <section className={styles.groupChild2} />
+      <section className={styles.rectangulo2} />
       <img className={styles.image1Icon} alt="" src="/image-1@2x.png" />
       <img
         className={styles.pexelsThisisengineering39125Icon}
@@ -50,11 +49,11 @@ const Group = () => {
       <div className={styles.proyecto}>Proyecto:</div>
       <div className={styles.ecolife}>EcoLife</div>
       <div className={styles.habilidades}>Habilidades:</div>
-      <div className={styles.diseoCadPythonContainer}>
-        <ul className={styles.diseoCadPythonImpresin3d}>
-          <li className={styles.diseoCad}>Diseño CAD</li>
-          <li className={styles.diseoCad}>Python</li>
-          <li className={styles.diseoCad}>Impresión 3d</li>
+      <div className={styles.diseoCADPythonContainer}>
+        <ul className={styles.diseoCADPythonImpresin3d}>
+          <li className={styles.diseoCAD}>Diseño CAD</li>
+          <li className={styles.diseoCAD}>Python</li>
+          <li className={styles.diseoCAD}>Impresión 3d</li>
           <li>CNC</li>
         </ul>
       </div>

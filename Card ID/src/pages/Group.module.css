@@ -1,25 +1,26 @@
-.pexelsNicoleAvagliano270665 {
-  position: absolute;
-  top: 0;
-  left: 0;
-  background: radial-gradient(50% 50%at 50% 50%, #422d9a, #0d0822);
-  width: 1126px;
-  height: 913px;
-}
-.groupChild,
-.groupItem {
+.pexelsNicoleAvagliano270665Icon {
   position: absolute;
   border-radius: var(--br-xl);
-}
-.groupChild {
-  top: 196px;
+  top: 1077px;
   left: 135px;
-  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
-  background-color: var(--color-gainsboro);
+  background: radial-gradient(50% 50%at 50% 50%, #422d9a, #0d0822);
   width: 840px;
   height: 580px;
 }
-.groupItem {
+.rectangulo3,
+.image7Icon {
+  position: absolute;
+  border-radius: var(--br-xl);
+}
+.rectangulo3 {
+  top: 1077px;
+  left: 135px;
+  width: 840px;
+  height: 580px;
+  box-shadow: 0 4px 4px rgba(136, 136, 136, 0.25);
+  background-color: var(--color-gray);
+}
+.grupoItem {
   top: 315px;
   left: 190px;
   width: 240px;
@@ -39,24 +40,14 @@
   width: 203px;
   height: 57px;
 }
-.rectangleDiv {
-  position: absolute;
-  top: 0;
-  left: 0;
-  background-color: var(--color-gainsboro);
-  border: 3px dashed var(--color-black);
-  box-sizing: border-box;
-  width: 1126px;
-  height: 911px;
-}
-.rectangleHeader,
+.rectanguloHeader,
 .rectangleMain {
   position: absolute;
   left: 135px;
   background-color: var(--color-gray);
   width: 840px;
 }
-.rectangleHeader {
+.rectanguloHeader {
   top: 196px;
   border-radius: var(--br-xl) var(--br-xl) 0 0;
   border-bottom: 1px solid #8fc13d;
@@ -118,7 +109,7 @@
   left: 501px;
   width: 403px;
 }
-.rectangleSection {
+.rectanguloSection {
   position: absolute;
   top: 359px;
   left: 479px;
@@ -129,12 +120,12 @@
   width: 448px;
   height: 70px;
 }
-.descripcin,
+.descripcion,
 .holaSoyJorge {
   position: absolute;
   display: inline-block;
 }
-.descripcin {
+.descripcion {
   top: 571px;
   left: 479px;
   font-weight: 300;
@@ -148,12 +139,12 @@
   width: 403px;
   height: 57px;
 }
-.groupChild1,
+.rectangulo1,
 .rol {
   position: absolute;
   left: 479px;
 }
-.groupChild1 {
+.rectangulo1 {
   top: 615px;
   border-radius: var(--br-xl) var(--br-xl) 0 0;
   background-color: var(--color-gainsboro);
@@ -183,7 +174,7 @@
   width: 403px;
   height: 57px;
 }
-.groupChild2 {
+.rectangulo2 {
   position: absolute;
   top: 487px;
   left: 479px;
@@ -214,17 +205,18 @@
 }
 .pexelsNicoleAvagliano270665Icon {
   position: absolute;
-  top: 904px;
-  left: 0;
-  width: 1126px;
-  height: 914px;
+  border-radius: var(--br-xl);
+  top: 1077px;
+  left: 135px;
+  width: 840px;
+  height: 577px;
 }
-.groupChild3,
+.rectangulo3,
 .image7Icon {
   position: absolute;
   border-radius: var(--br-xl);
 }
-.groupChild3 {
+.rectangulo3 {
   top: 1077px;
   left: 135px;
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
@@ -323,16 +315,16 @@
   width: 164px;
   height: 44px;
 }
-.diseoCad {
+.diseoCAD {
   margin-bottom: 0;
 }
-.diseoCadPythonImpresin3d {
+.diseoCADPythonImpresin3d {
   margin: 0;
   font-family: inherit;
   font-size: inherit;
   padding-left: 40px;
 }
-.diseoCadPythonContainer {
+.diseoCADPythonContainer {
   position: absolute;
   top: 1410px;
   left: 564px;
