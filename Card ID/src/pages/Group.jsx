@@ -40,7 +40,7 @@ const Group = () => {
         alt=""
         src="/pexelsnicoleavagliano2706654.svg"
       />
-      <main className={styles.groupChild3} />
+      <main className={styles.rectangulo3} />
       <img className={styles.image7Icon} alt="" src="/image-7@2x.png" />
       <button className={styles.rectangleButton} />
       <button className={styles.copiarLink}>Copiar link</button>

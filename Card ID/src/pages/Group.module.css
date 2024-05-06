@@ -1,24 +1,24 @@
-.pexelsNicoleAvagliano270665Icon {
+.pexelsNicoleAvagliano270665 {
   position: absolute;
   border-radius: var(--br-xl);
-  top: 1077px;
+  top: 196px;
   left: 135px;
   background: radial-gradient(50% 50%at 50% 50%, #422d9a, #0d0822);
   width: 840px;
   height: 580px;
 }
-.rectangulo3,
-.image7Icon {
+.rectangulo,
+.grupoItem {
   position: absolute;
   border-radius: var(--br-xl);
 }
-.rectangulo3 {
-  top: 1077px;
+.rectangulo {
+  top: 196px;
   left: 135px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-gainsboro);
   width: 840px;
   height: 580px;
-  box-shadow: 0 4px 4px rgba(136, 136, 136, 0.25);
-  background-color: var(--color-gray);
 }
 .grupoItem {
   top: 315px;
@@ -203,18 +203,27 @@
   height: 292px;
   object-fit: cover;
 }
-.rectangulo1,
+.pexelsNicoleAvagliano270665Icon {
+  position: absolute;
+  border-radius: var(--br-xl);
+  top: 1077px;
+  left: 135px;
+  background: radial-gradient(50% 50%at 50% 50%, #422d9a, #0d0822);
+  width: 840px;
+  height: 580px;
+}
+.rectangulo3,
 .image7Icon {
   position: absolute;
   border-radius: var(--br-xl);
 }
-.rectangulo1 {
+.rectangulo3 {
   top: 1077px;
   left: 135px;
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
   background-color: var(--color-gray);
   width: 840px;
-  height: 577px;
+  height: 580px;
 }
 .image7Icon {
   top: 1158px;
