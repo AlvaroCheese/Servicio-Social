@@ -203,20 +203,12 @@
   height: 292px;
   object-fit: cover;
 }
-.pexelsNicoleAvagliano270665Icon {
-  position: absolute;
-  border-radius: var(--br-xl);
-  top: 1077px;
-  left: 135px;
-  width: 840px;
-  height: 577px;
-}
-.rectangulo3,
+.rectangulo1,
 .image7Icon {
   position: absolute;
   border-radius: var(--br-xl);
 }
-.rectangulo3 {
+.rectangulo1 {
   top: 1077px;
   left: 135px;
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
