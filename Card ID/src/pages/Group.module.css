@@ -2,10 +2,18 @@
   position: absolute;
   border-radius: var(--br-xl);
   top: 196px;
-  left: 135px;
-  background: radial-gradient(50% 50%at 50% 50%, #422d9a, #0d0822);
+  left: 1450px;
+  background: radial-gradient(70% 70%at 50% 50%, #422d9a, #0d0822);
   width: 840px;
   height: 580px;
+}
+.pexelsNicoleAvagliano2706654 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background: radial-gradient(70% 70%at 50% 50%, #422d9a, #0d0822);
+  width: 3778px;
+  height: 1995px;
 }
 .rectangulo,
 .grupoItem {
@@ -14,7 +22,7 @@
 }
 .rectangulo {
   top: 196px;
-  left: 135px;
+  left: 1450px;
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
   background-color: var(--color-gainsboro);
   width: 840px;
@@ -22,7 +30,7 @@
 }
 .grupoItem {
   top: 315px;
-  left: 190px;
+  left: 1505px;
   width: 240px;
   height: 291px;
   object-fit: cover;
@@ -30,7 +38,7 @@
 .fotoDelUsuario {
   position: absolute;
   top: 422px;
-  left: 209px;
+  left: 1524px;
   font-size: var(--font-size-11xl);
   color: var(--color-black);
   text-align: center;
@@ -43,7 +51,7 @@
 .rectanguloHeader,
 .rectangleMain {
   position: absolute;
-  left: 135px;
+  left: 1450px;
   background-color: var(--color-gray);
   width: 840px;
 }
@@ -63,7 +71,7 @@
 .nombre {
   position: absolute;
   top: 315px;
-  left: 479px;
+  left: 1794px;
   font-weight: 300;
   display: inline-block;
   width: 181px;
@@ -71,7 +79,7 @@
 }
 .fechaDeIngreso {
   top: 633px;
-  left: 186px;
+  left: 1501px;
   font-weight: 300;
   width: 244px;
 }
@@ -87,7 +95,7 @@
 }
 .deAbrilDel {
   top: 664px;
-  left: 186px;
+  left: 1501px;
   font-weight: 300;
   width: 244px;
   height: 44px;
@@ -98,7 +106,7 @@
 }
 .unitedFederationOf {
   top: 214px;
-  left: 264px;
+  left: 1579px;
   font-weight: 600;
   font-family: var(--font-lexend);
   width: 711px;
@@ -106,13 +114,13 @@
 }
 .jorgeMartnezLozano {
   top: 374px;
-  left: 501px;
+  left: 1794px;
   width: 403px;
 }
 .rectanguloSection {
   position: absolute;
   top: 359px;
-  left: 479px;
+  left: 1794px;
   border-radius: var(--br-31xl);
   background-color: var(--color-gainsboro);
   border: 3px solid var(--color-mediumslateblue);
@@ -127,14 +135,14 @@
 }
 .descripcion {
   top: 571px;
-  left: 479px;
+  left: 1794px;
   font-weight: 300;
   width: 181px;
   height: 44px;
 }
 .holaSoyJorge {
   top: 629px;
-  left: 501px;
+  left: 1816px;
   text-align: justify;
   width: 403px;
   height: 57px;
@@ -142,7 +150,7 @@
 .rectangulo1,
 .rol {
   position: absolute;
-  left: 479px;
+  left: 1794px;
 }
 .rectangulo1 {
   top: 615px;
@@ -165,7 +173,7 @@
 .gerenteDeExperiencias {
   position: absolute;
   top: 493px;
-  left: 501px;
+  left: 1816px;
   font-size: var(--font-size-11xl);
   text-align: center;
   display: flex;
@@ -177,7 +185,7 @@
 .rectangulo2 {
   position: absolute;
   top: 487px;
-  left: 479px;
+  left: 1794px;
   border-radius: 90px;
   background-color: var(--color-gainsboro);
   border: 3px solid var(--color-mediumslateblue);
@@ -188,7 +196,7 @@
 .image1Icon {
   position: absolute;
   top: 204px;
-  left: 175px;
+  left: 1490px;
   border-radius: 46px;
   width: 64px;
   height: 64px;
@@ -197,7 +205,7 @@
 .pexelsThisisengineering39125Icon {
   position: absolute;
   top: 314px;
-  left: 190px;
+  left: 1505px;
   border-radius: var(--br-xl);
   width: 240px;
   height: 292px;
@@ -207,8 +215,8 @@
   position: absolute;
   border-radius: var(--br-xl);
   top: 1077px;
-  left: 135px;
-  background: radial-gradient(50% 50%at 50% 50%, #422d9a, #0d0822);
+  left: 1450px;
+  background: radial-gradient(70% 70%at 50% 50%, #422d9a, #0d0822);
   width: 840px;
   height: 580px;
 }
@@ -219,7 +227,7 @@
 }
 .rectangulo3 {
   top: 1077px;
-  left: 135px;
+  left: 1450px;
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
   background-color: var(--color-gray);
   width: 840px;
@@ -227,7 +235,7 @@
 }
 .image7Icon {
   top: 1158px;
-  left: 201px;
+  left: 1516px;
   width: 291px;
   height: 290px;
   object-fit: cover;
@@ -242,7 +250,7 @@
   border: 3px solid var(--color-mediumslateblue);
   background-color: var(--color-gainsboro);
   top: 1499px;
-  left: 201px;
+  left: 1516px;
   border-radius: var(--br-31xl);
   box-sizing: border-box;
   width: 289px;
@@ -252,7 +260,7 @@
   border: 0;
   background-color: transparent;
   top: 1519px;
-  left: 144px;
+  left: 1459px;
   font-size: var(--font-size-11xl);
   font-family: var(--font-lexend-deca);
   color: var(--color-mediumslateblue);
@@ -268,7 +276,7 @@
 .carrera,
 .ingenieraMecnica {
   position: absolute;
-  left: 564px;
+  left: 1879px;
 }
 .carrera {
   cursor: pointer;
@@ -302,7 +310,7 @@
 .habilidades,
 .proyecto {
   position: absolute;
-  left: 564px;
+  left: 1879px;
   display: inline-block;
 }
 .ecolife {
@@ -328,7 +336,7 @@
 .diseoCADPythonContainer {
   position: absolute;
   top: 1410px;
-  left: 564px;
+  left: 1879px;
   font-size: var(--font-size-11xl);
   display: inline-block;
   width: 365px;
@@ -342,3 +350,28 @@
   color: var(--color-white);
   font-family: var(--font-lexend-deca);
 }
+.tarjeta {
+  transition: transform 1s;
+  position: relative; /* Establece la posición relativa */
+
+}
+
+.tarjeta.flipped {
+  transform: rotateY(180deg);
+}
+.botonFlipp {
+  position: absolute;
+  object-fit: cover;
+  top: 700px;
+  left: 2255px;
+  width: 40px;
+  height: 40px;
+  background: var(--color-mediumslateblue);
+  transition: transform 1s, opacity 0.5s;
+}
+
+.flipped .botonFlipp {
+  transform: rotateY(180deg); /* Ajusta la posición cuando está girado */
+  opacity: 0;
+}
+
