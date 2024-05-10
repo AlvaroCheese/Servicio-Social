@@ -9,7 +9,7 @@ const BackCard = () => {
       <img className={styles.image7Icon} alt="" src="/image-7@2x.png" />
       <button className={styles.rectangleButton} />
       <button className={styles.Copiar}>Copiar link</button>
-      <button className={styles.Estudio}>Carrera</button>
+      <div className={styles.Estudio}>Carrera</div>
       <div className={styles.Carrera}>Ingeniería Mecánica</div>
       <div className={styles.Proyecto}>Proyecto:</div>
       <div className={styles.NomProyecto}>EcoLife</div>

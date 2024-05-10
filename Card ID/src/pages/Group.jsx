@@ -4,26 +4,32 @@ import FrontCard from "./FrontCard.jsx";
 import BackCard from "./BackCard.jsx";
 
 const Group = () => {
-  const [activeCard, setActiveCard] = useState(false);
+  const [isFlipped, setIsFlipped] = useState(false);
 
   const handleFlip = () => {
-    setActiveCard(!activeCard);
+    setIsFlipped(!isFlipped);
   };
-
+  
   return (
     <main>
       <div className={styles.pexelsNicoleAvagliano270665Parent}>
         <div className={styles.pexelsNicoleAvagliano2706654} />
         <div className="h-screen centered">
-          <div className={`relative card ${activeCard ? styles.cardFlip : ""}`}>
-            <div className={`absolute w-full h-full front`} style={{ opacity: activeCard ? 0 : 1, visibility: activeCard ? "hidden" : "visible" }}>
+          <div className={`${styles.card} ${isFlipped ? styles.flipped : ""}`}>
+
+            {/* La cara frontal de la tarjeta */}
+            <div className={styles.front}>
               <FrontCard />
+              <button onClick={handleFlip} className={styles.botonFlip}></button>
             </div>
-            <div className={`absolute w-full h-full back`} style={{ opacity: activeCard ? 1 : 0, visibility: activeCard ? "visible" : "hidden" }}>
+
+            {/* La cara trasera de la tarjeta */}
+            <div className={styles.back}>
               <BackCard />
+              <button onClick={handleFlip} className={styles.botonFlip}></button>
             </div>
+
           </div>
-          <button onClick={handleFlip} className={styles.botonFlip}></button>
         </div>
       </div>
     </main>
