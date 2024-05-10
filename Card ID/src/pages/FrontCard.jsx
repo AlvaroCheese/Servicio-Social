@@ -3,7 +3,7 @@ import styles from "./Group.module.css";
 
 const FrontCard = () => {
   return (
-    <div className={`${styles.front} ${styles.card}`}>
+    <div>
       <div className={styles.pexelsNicoleAvagliano270665} />
       <div className={styles.rectangulo} />
       <img className={styles.grupoItem} alt="Rectangle" src="/rectangle-11@2x.png" />
@@ -25,6 +25,7 @@ const FrontCard = () => {
       <div className={styles.Info4}>Rol</div>
       <div className={styles.Rol}>Gerente de experiencias</div>
       <section className={styles.rectangulo2} />
+      <img className={styles.botonFlipp} alt="" src="/botonFlip.png"/>
       <img className={styles.image1Icon} alt="" src="/image-1@2x.png" />
       <img className={styles.pexelsThisisengineering39125Icon} alt="" src="/pexelsthisisengineering3912513-1@2x.png" />
     </div>

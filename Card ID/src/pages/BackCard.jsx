@@ -3,7 +3,7 @@ import styles from "./Group.module.css";
 
 const BackCard = () => {
   return (
-    <div className={`${styles.back} ${styles.card}`}>
+    <div>
       <div className={styles.pexelsNicoleAvagliano270665Icon} />
       <main className={styles.rectangulo3} />
       <img className={styles.image7Icon} alt="" src="/image-7@2x.png" />
@@ -22,6 +22,7 @@ const BackCard = () => {
           <li claseName={styles.Cono}>CNC</li>
         </ul>
       </div>
+      <img className={styles.botonFlipp} alt="" src="/botonFlip.png"/>
     </div>
   );
 };

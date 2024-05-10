@@ -350,29 +350,26 @@
   color: var(--color-white);
   font-family: var(--font-lexend-deca);
 }
+.botonFlip {
+  position: absolute  ;
+  top: 1010px;
+  left: 2250px;
+  width: 40px;
+  height: 40px;
+  background-color: transparent;
+  object-fit: cover;
+}
+.botonFlipp {
+  position: absolute  ;
+  top: 1010px;
+  left: 2250px;
+  width: 40px;
+  height: 40px;
+  background-color: #8e57ea;
+  object-fit: cover;
+}
 .centered{
   display: flex;
   justify-content: center;
   align-items: center;
-}
-.card {
-  transform-style: preserve-3d;
-  transition: all 1s ease;
-}
-.body {
-  background-color: 'pexelsNicoleAvagliano2706654';
-}
-
-.back {
-  transform: rotateY(180deg);
-}
-
-.cardFlip {
-  transform: rotateY(180deg);
-  transition: transform 1s ease;
-}
-.hidden {
-  opacity: 0;
-  visibility: hidden;
-  pointer-events: none; /* Evita que los elementos ocultos sean clickeables */
 }
