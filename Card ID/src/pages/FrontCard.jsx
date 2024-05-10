@@ -4,7 +4,7 @@ import styles from "./Group.module.css";
 const FrontCard = () => {
   return (
     <div>
-      <div className={styles.pexelsNicoleAvagliano270665} />
+      <div className={styles.pexelsNicoleAvagliano270665}/>
       <div className={styles.rectangulo} />
       <img className={styles.grupoItem} alt="Rectangle" src="/rectangle-11@2x.png" />
       <div className={styles.rectangulo} />

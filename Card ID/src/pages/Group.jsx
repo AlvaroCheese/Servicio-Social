@@ -13,22 +13,22 @@ const Group = () => {
   return (
     <main>
       <div className={styles.pexelsNicoleAvagliano270665Parent}>
-        <div className={styles.pexelsNicoleAvagliano2706654} />
-        <div className="h-screen centered">
-          <div className={`${styles.card} ${isFlipped ? styles.flipped : ""}`}>
+        <div className={styles.pexelsNicoleAvagliano2706654} >
+          <div className="h-screen centered">
+            <div className={`${styles.card} ${isFlipped ? styles.flipped : ""}`}>
 
-            {/* La cara frontal de la tarjeta */}
-            <div className={styles.front}>
-              <FrontCard />
-              <button onClick={handleFlip} className={styles.botonFlip}></button>
+              {/* La cara frontal de la tarjeta */}
+              <div className={styles.front}>
+                <FrontCard />
+                <button onClick={handleFlip} className={styles.botonFlip}></button>
+              </div>
+
+              {/* La cara trasera de la tarjeta */}
+              <div className={styles.back}>
+                <BackCard />
+                <button onClick={handleFlip} className={styles.botonFlip}></button>
+              </div>
             </div>
-
-            {/* La cara trasera de la tarjeta */}
-            <div className={styles.back}>
-              <BackCard />
-              <button onClick={handleFlip} className={styles.botonFlip}></button>
-            </div>
-
           </div>
         </div>
       </div>
